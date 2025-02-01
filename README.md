@@ -9,7 +9,6 @@ I have a deep appreciation for the art of software development—understanding t
 
 ### 📖 Books I am reading...
 - [ ] [Effective Haskell](https://www.amazon.com/Effective-Haskell-Real-World-Functional-Programming/dp/1680509349)
-- [ ] [Haskell in Depth](https://www.amazon.com/Haskell-Depth-Vitaly-Bragilevsky/dp/161729540X)
 - [ ] [Functional Programming in Scala, 2nd. Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition)
 - [ ] [Functional Programming Simplified](https://www.amazon.com/Functional-Programming-Simplified-Alvin-Alexander/dp/1979788782)
 
