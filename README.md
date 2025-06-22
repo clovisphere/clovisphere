@@ -7,11 +7,6 @@ I have a deep appreciation for the art of software development—understanding t
 ### 🌱 What am I currently learning?
 - **Functional programming**: exploring the different facets of functional programming using Haskell and Scala as mediums 😊
 
-### 📖 Books I am reading...
-- [ ] [Effective Haskell](https://www.amazon.com/Effective-Haskell-Real-World-Functional-Programming/dp/1680509349)
-- [ ] [Functional Programming in Scala, 2nd. Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition)
-- [ ] [Functional Programming Simplified](https://www.amazon.com/Functional-Programming-Simplified-Alvin-Alexander/dp/1979788782)
-
 ---
 
 Feel free to explore my projects and let’s connect to collaborate or discuss anything tech! 🚀
