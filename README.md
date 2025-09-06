@@ -19,13 +19,11 @@
 
 ### 📊 GitHub Stats  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clovisphere&layout=compact&theme=tokyonight&hide=html,css,scss)  
+
 ![Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clovisphere&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clovisphere&theme=tokyonight&hide_border=true)    
-
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clovisphere&theme=tokyonight&hide_border=true)  
 
 ### 📈 Contribution Graph  
 
@@ -33,9 +31,14 @@
 
 ---
 
+- 💻 Software engineer passionate about **backend engineering** and **testing**  
+- 🐍🦫 Primary languages: **Python** & **Go**  
+- ⚙️ Fascinated by paradigms: OOP, functional, imperative, declarative  
+- 🚀 Love building reliable APIs and well-tested systems  
+
+### 🌱 Currently learning
+- Functional programming with **Haskell** & **Scala**  
+
+---
+
 ✨ Let’s connect, collaborate, or geek out about tech!
-
-
-
-
-
