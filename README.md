@@ -7,16 +7,6 @@
 
 ---
 
-- 💻 Software engineer passionate about **backend engineering** and **testing**  
-- 🐍🦫 Primary languages: **Python** & **Go**  
-- ⚙️ Fascinated by paradigms: OOP, functional, imperative, declarative  
-- 🚀 Love building reliable APIs and well-tested systems  
-
-### 🌱 Currently learning
-- Functional programming with **Haskell** & **Scala**  
-
----
-
 ### 📊 GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clovisphere&layout=compact&theme=tokyonight&hide=html,css,scss)  
