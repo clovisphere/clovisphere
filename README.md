@@ -1,15 +1,24 @@
 # Hi there! 👋 I'm Clov
 
-I am a passionate software engineer with a focus on (and love ❤️ for) testing and backend engineering. I mostly program in Python and Ruby, but I know my way around Java, PHP, and Go 😅.
-
-I have a deep appreciation for the art of software development—understanding tools' inner workings, revisiting classical techniques, and exploring various programming paradigms (from object-oriented to functional, imperative to declarative). I find joy in blending styles to create elegant, pragmatic solutions. Whether it’s crafting efficient APIs, ensuring systems are rigorously tested, or diving into new programming techniques, I’m always eager to learn and grow.
-
-### 🌱 What am I currently learning?
-- **Functional programming**: exploring the different facets of functional programming using Haskell and Scala as mediums 😊
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend%20Engineering-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-34D058?style=for-the-badge&logo=pytest&logoColor=white)
 
 ---
 
-Feel free to explore my projects and let’s connect to collaborate or discuss anything tech! 🚀
+- 💻 Software engineer passionate about **backend engineering** and **testing**  
+- 🐍🦫 Primary languages: **Python** & **Go**  
+- ⚙️ Fascinated by paradigms: OOP, functional, imperative, declarative  
+- 🚀 Love building reliable APIs and well-tested systems  
+
+### 🌱 Currently learning
+- Functional programming with **Haskell** & **Scala**  
+
+---
+
+✨ Let’s connect, collaborate, or geek out about tech!
+
 
 
 
