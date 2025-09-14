@@ -23,8 +23,6 @@
 
 ### 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clovisphere&layout=compact&theme=tokyonight&hide=html,css,scss)  
-
 ![Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clovisphere&theme=tokyonight&hide_border=true)  
