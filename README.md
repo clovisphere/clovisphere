@@ -23,9 +23,9 @@
 
 ### 📊 GitHub Stats  
 
-![Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues,contribs)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=clovisphere&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=clovisphere)](https://git.io/streak-stats) 
 
 ### 📈 Contribution Graph  
 
