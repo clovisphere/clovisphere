@@ -9,7 +9,7 @@
 - 💻 Software engineer who treats **backend engineering** and **testing** like an extreme sport  
 - 🐍🦫 Fluent in **Python** (snake charming) & **Go** (gopher whispering)  
 - ⚙️ Collector of paradigms: OOP (objects in neat boxes), functional (functions as first-class citizens), imperative (bossy code), declarative (code that vibes)  
-- 🚀 Builder of APIs so reliable they could survive a cosmic storm, and systems so well-tested they’d pass a lie detector  
+- 🚀 Builder of APIs so reliable they could survive a cosmic storm, and systems so well-tested they'd pass a lie detector  
 
 > Currently saving the world one commit at a time (with questionable commit messages).
 
