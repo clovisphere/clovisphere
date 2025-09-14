@@ -23,7 +23,9 @@
 
 ### 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&count_private=true)
+
+[!Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=clovisphere)](https://git.io/streak-stats) 
 
