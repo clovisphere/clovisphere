@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues,contribs)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&count_private=true)  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=clovisphere)](https://git.io/streak-stats) 
 
