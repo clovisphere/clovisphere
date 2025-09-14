@@ -5,7 +5,6 @@
 ![Backend](https://img.shields.io/badge/Backend%20Engineering-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-34D058?style=for-the-badge&logo=pytest&logoColor=white)
 
----
 
 - 💻 Software engineer passionate about **backend engineering** and **testing**  
 - 🐍🦫 Primary languages: **Python** & **Go**  
@@ -15,20 +14,12 @@
 ### 🌱 Currently learning
 - Functional programming with **Haskell** & **Scala**  
 
----
-
 ✨ Let’s connect, collaborate, or geek out about tech!
 
 ---
 
-### 📊 GitHub Stats  
+[![Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&count_private=true)
+[![Clov's GitHub streak](https://streak-stats.demolab.com?user=clovisphere)](https://git.io/streak-stats) 
 
-[![Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=clovisphere)](https://git.io/streak-stats) 
-
-### 📈 Contribution Graph  
-
-![Clov's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clovisphere&theme=tokyo-night)  
+![Clov's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clovisphere&theme=transparent)  
