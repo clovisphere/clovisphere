@@ -6,20 +6,15 @@
 ![Testing](https://img.shields.io/badge/Testing-34D058?style=for-the-badge&logo=pytest&logoColor=white)
 
 
-- 💻 Software engineer passionate about **backend engineering** and **testing**  
-- 🐍🦫 Primary languages: **Python** & **Go**  
-- ⚙️ Fascinated by paradigms: OOP, functional, imperative, declarative  
-- 🚀 Love building reliable APIs and well-tested systems  
+- 💻 Software engineer who treats **backend engineering** and **testing** like an extreme sport  
+- 🐍🦫 Fluent in **Python** (snake charming) & **Go** (gopher whispering)  
+- ⚙️ Collector of paradigms: OOP (objects in neat boxes), functional (functions as first-class citizens), imperative (bossy code), declarative (code that vibes)  
+- 🚀 Builder of APIs so reliable they could survive a cosmic storm, and systems so well-tested they’d pass a lie detector  
 
-### 🌱 Currently learning
-- Functional programming with **Haskell** & **Scala**  
+> Currently saving the world one commit at a time (with questionable commit messages).
 
-✨ Let’s connect, collaborate, or geek out about tech!
+![Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=vue)
 
----
+![Clov's GitHub streak](https://streak-stats.demolab.com?user=clovisphere&theme=vue&border_radius=4.4)
 
-[![Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Clov's GitHub streak](https://streak-stats.demolab.com?user=clovisphere)](https://git.io/streak-stats) 
-
-![Clov's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clovisphere&theme=transparent)  
+![Clov's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clovisphere&theme=github-compact)
