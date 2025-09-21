@@ -13,8 +13,6 @@
 
 > Currently saving the world one commit at a time (with questionable commit messages).
 
-<!-- ![Clov's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisphere&show_icons=true&theme=vue) -->
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=clovisphere&theme=vue&border_radius=4.4)](https://git.io/streak-stats)
 
 ![Clov's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clovisphere&theme=github-compact)
