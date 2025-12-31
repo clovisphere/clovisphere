@@ -1,16 +1,54 @@
-# Hi there! 👋 I'm Clov
+~/whoami
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend%20Engineering-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-34D058?style=for-the-badge&logo=pytest&logoColor=white)
+> A small Zig file pretending to be a README,  
+> and a README pretending to be a résumé.
 
+```zig
 
-- 💻 Software engineer who treats **backend engineering** and **testing** like an extreme sport  
-- 🐍🦫 Fluent in **Python** (snake charming) & **Go** (gopher whispering)  
-- ⚙️ Collector of paradigms: OOP (objects in neat boxes), functional (code that vibes), logical (riddle solver)    
-- 🚀 Builder of APIs so reliable they could survive a cosmic storm, and systems so well-tested they'd pass a lie detector  
+const std = @import("std");
 
-> Currently saving the world one commit at a time (with questionable commit messages).
+pub const Clov = struct {
+    /// Identity
+    role: []const u8 = "Software Engineer",
+    focus: []const u8 = "backend systems built to be tested, trusted, and boring in production.",
+
+    /// Narrative truth
+    mission: []const u8 = "Saving the world one commit at a time (with questionable commit messages).",
+
+    /// Core stack
+    languages: []const []const u8 = &.{
+        "Python",
+        "Go",
+        "Ruby",
+        "Zig",
+    },
+
+    paradigms: []const []const u8 = &.{
+        "Object-Oriented",
+        "Functional",
+        "Logical",
+    },
+
+    /// Performance specs (benchmarked in production, not vibes)
+    reliability: u8 = 100, // cosmic-storm resistant
+    test_coverage: f32 = 1.0, // lie-detector approved
+
+    pub fn buildSystem(self: @This()) void {
+        std.log.info(
+            "Whispering to gophers, charming snakes, and arguing politely with compilers…",
+            .{},
+        );
+
+        self.deployResilientAPI();
+    }
+
+    fn deployResilientAPI(_: @This()) void {
+        std.log.info(
+            "Shipping something boring, stable, and still standing at 3 a.m.",
+            .{},
+        );
+    }
+};
+```
 
 ![Clov's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=clovisphere&theme=github-compact)
