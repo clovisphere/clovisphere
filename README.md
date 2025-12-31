@@ -3,6 +3,9 @@
 > A small Zig file pretending to be a README,  
 > and a README pretending to be a résumé.
 
+Written by someone who believes good software is mostly deleting code,
+naming things carefully, and letting tests do the arguing.
+
 ```zig
 
 const std = @import("std");
