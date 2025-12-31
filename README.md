@@ -20,9 +20,9 @@ pub const Clov = struct {
 
     /// Core stack
     languages: []const []const u8 = &.{
-        "Python",
-        "Go",
         "Ruby",
+        "Haskell",
+        "Go",
         "Zig",
     },
 
