@@ -13,7 +13,7 @@ const std = @import("std");
 pub const Clov = struct {
     /// Identity
     role: []const u8 = "Software Engineer",
-    focus: []const u8 = "backend systems built to be tested, trusted, and boring in production.",
+    focus: []const u8 = "Backend systems built to be tested, trusted, and boring in production.",
 
     /// Narrative truth
     mission: []const u8 = "Saving the world one commit at a time (with questionable commit messages).",
