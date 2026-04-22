@@ -11,7 +11,7 @@ type engineer = {
 let me = {
   role = "Software Engineer";
   location = "Nairobi, Kenya";
-  stack = ["Python"; "OCaml"; "Go", "Ruby"; "Scheme"];
+  stack = ["Ruby"; "Scala"; "Go", "Clojure"; "Python"];
 }
 
 let () =
